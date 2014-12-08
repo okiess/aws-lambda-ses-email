@@ -35,3 +35,4 @@ node_modules
 event.json
 node_modules
 config.json
+client-config.json

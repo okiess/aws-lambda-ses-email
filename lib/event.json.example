@@ -1,0 +1,9 @@
+{
+  "to": ["email@example.com"],
+  "from": "test@test.com",
+  "cc": [],
+  "bcc": [],
+  "subject": "Test Subject",
+  "text_message": "Test Message",
+  "html_message": "<h1>HTML Message</h1>"
+}
